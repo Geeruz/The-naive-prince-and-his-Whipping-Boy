@@ -1,0 +1,18 @@
+- name: seed
+  color: 7a00ff
+  description: Proposed story seed
+- name: submission
+  color: 0a71e8
+  description: New chapter submission
+- name: hearing-open
+  color: f7ca00
+  description: Hearing currently in progress
+- name: canon
+  color: 0e8a16
+  description: Merged canonical chapter
+- name: rejected
+  color: d93f0b
+  description: Rejected submission
+- name: lore-update
+  color: f9d0c4
+  description: Updates to lore files
